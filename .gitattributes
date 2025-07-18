@@ -1,0 +1,3 @@
+*.sql linguist-language=SQL
+*.drawio linguist-documentation
+*.md linguist-documentation
