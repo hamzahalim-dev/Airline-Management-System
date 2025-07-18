@@ -62,7 +62,10 @@ Added schema diagrams or query outputs in `docs/` folder.
 
 ---
 
-## 👨‍💻 Author
+## Credits
 
-Syed Muhammad Waiz Rizvi – AI Student @ UMT  
-📫 Contact: DragoXtrme666@gmail.com
+This project was developed as part of a university group assignment by:
+
+- [Hamza Halim](https://github.com/hamzahalim-dev)
+- [Syed Muhammad Waiz Rizvi](https://github.com/Waizdev)
+
